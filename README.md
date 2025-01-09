@@ -37,7 +37,7 @@ I have completed the following modules:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ben-eater-8bit-computer.git
+   git clone https://github.com/leen-S/ben-eater-8bit-computer.git
    ```
 
 2. Explore the directories for individual modules:
