@@ -6,6 +6,8 @@ This repository documents my journey in building and experimenting with Ben Eate
 
 The 8-bit computer is inspired by Ben Eater's excellent tutorials and uses 74HC series chips. Some modifications have been made to work around the lack of internal pull-up resistors in HC chips by adding external pull-up resistors.
 
+![image alt](https://github.com/leen-S/BenEaters-8BitComputer/blob/e6cd76e1c305ecd10e749b54bd8d24e30251791e/Image.png)
+
 ### Current Status
 
 I have completed the following modules:
